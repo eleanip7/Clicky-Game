@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a memory game using React. The application's UI is split into four components.
+A memory game using react
 
 
 ## Technologies used
