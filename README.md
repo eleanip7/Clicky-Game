@@ -14,6 +14,6 @@ A memory game using react
 
 ## Website
 
-https://eleanip7.github.io/Clicky-Game/
+https://react-clicky-game-app1.herokuapp.com
 
 
