@@ -28,8 +28,6 @@ Memory game built with reach
 
 ## Website
 
-https://kimgomizzou.github.io/Clicky-Game/
+https://eleanip7.github.io/Clicky-Game/
 
-## Copyright
 
-Kim Kaufman © 2017.  All rights reserved.
